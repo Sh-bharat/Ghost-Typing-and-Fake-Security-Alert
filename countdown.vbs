@@ -73,6 +73,6 @@ For i=1 To Len(strString)
 Next 
 
 wscript.sleep(1000)
-wshshell.run "defender.vbs"
+wshshell.run "window.vbs"
 
 
