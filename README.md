@@ -138,7 +138,6 @@ wscript.sleep(1000)
 wshshell.run "defender.vbs"
 ```
 
-These are the complete scripts as you provided.
 ## Disclaimer
 
 **Please use these scripts responsibly and only in controlled environments for educational or demonstration purposes. Avoid deploying or executing them in any unauthorized or malicious manner. The provided scripts are for illustrative purposes only.**
